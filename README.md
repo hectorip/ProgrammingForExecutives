@@ -11,5 +11,6 @@ Al finalizar el alumno podrá entender con facilidad los términos técnicos y l
 
 ##Temario
 
-  1 Funcionamiento de las computadoras
-  2 Funcionamiento de Internet
+   1  Funcionamiento de las computadoras
+   2  Funcionamiento de Internet
+   3  Backend vs Frontend  
